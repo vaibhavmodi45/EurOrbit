@@ -10,7 +10,7 @@ h1 {
     text-align: center;
     margin-top: -45px;
     color: yellow;
-    font-size: 4.5rem;
+    font-size: 4.6rem;
     text-shadow: 2px 5px 10px #000000;
 }
 
@@ -19,6 +19,7 @@ h3 {
     margin-top: -30px;
     color: rgb(255, 255, 255);
     font-size: 1.5rem;
+    text-shadow: 2px 5px 10px #e3e3e3;
 }
 
 h5 {
