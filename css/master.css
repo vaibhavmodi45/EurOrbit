@@ -8,31 +8,33 @@ body {
 
 h1 {
     text-align: center;
-    margin-top: -45px;
+    margin-top: -65px;
+    margin-bottom: -10px;
     color: yellow;
-    font-size: 4.6rem;
+    font-size: 4.8rem;
     text-shadow: 2px 5px 10px #000000;
 }
 
 h3 {
     text-align: center;
-    margin-top: -30px;
+    margin-top: 25px;
     color: rgb(255, 255, 255);
-    font-size: 1.5rem;
-    text-shadow: 2px 5px 10px #e3e3e3;
+    font-size: 1.7rem;
 }
 
 h5 {
     text-align: center;
     margin-top: 15px;
     color: rgb(255, 255, 255);
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: normal;
     font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 2px 5px #000000;
 }
 
 footer {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
     padding: 10px;
     color: white;
     position: fixed;
