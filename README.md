@@ -2,8 +2,6 @@
 
 **EurOrbit** is a visually captivating and user-friendly web application that delivers accurate, up-to-date weather forecasts for cities across Europe. Powered by [7Timer](http://www.7timer.info/doc.php?lang=en), EurOrbit lets you plan your days with confidence, no matter where you are in Europe.
 
-![EurOrbit Main Screen](image2)
-
 ---
 
 ## 🚀 Features
